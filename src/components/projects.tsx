@@ -9,7 +9,7 @@ export default function Projects() {
                 "This Gym Management System eliminates manual paperwork, reduces errors in payment tracking, and improves member experience. With automated reminders, analytics, and an easy-to-use interface.",
             image: "https://cdn-magazine.nutrabay.com/wp-content/uploads/2023/02/strong-bodybuilder-doing-heavy-weight-exercise-back-machine-1-1067x800.jpg",
             tags: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
-            liveLink: "/gymsphere.algoworks.online",
+            liveLink: "gymsphere.algoworks.online",
             githubLink: "#",
         },
         {
@@ -17,7 +17,7 @@ export default function Projects() {
             description: "This Loan Management System automates the entire loan lifecycle, reducing manual errors, ensuring timely recovery, and providing a seamless experience for both lenders and borrowers. With real-time tracking.",
             image: "https://www.etmoney.com/learn/wp-content/uploads/2023/03/best-practices-for-home-loans.jpg",
             tags: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
-            liveLink: "/loan.algoworks.online",
+            liveLink: "loan.algoworks.online",
             githubLink: "",
         },
         {
@@ -25,7 +25,7 @@ export default function Projects() {
             description: "This RO Service Management System automates service request handling, enhances customer experience, and ensures timely maintenance for RO water purifiers. With real-time technician tracking.",
             image: "https://vq.pe/creator/frontend/img/33269/1733472398-1728022607-services-1.webp",
             tags: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
-            liveLink: "/ro.algoworks.online",
+            liveLink: "ro.algoworks.online",
             githubLink: "#",
         },
     ]
