@@ -17,7 +17,7 @@ export default function Projects() {
             description: "This Loan Management System automates the entire loan lifecycle, reducing manual errors, ensuring timely recovery, and providing a seamless experience for both lenders and borrowers. With real-time tracking.",
             image: "https://www.etmoney.com/learn/wp-content/uploads/2023/03/best-practices-for-home-loans.jpg",
             tags: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
-            liveLink: "loan.algoworks.online",
+            liveLink: "https://loan.algoworks.online/loan/landing-page",
             githubLink: "",
         },
         {
@@ -56,7 +56,7 @@ export default function Projects() {
                                     ))}
                                 </div>
                                 <div className="flex">
-                                    <a href={project.liveLink} target="_blank" rel="noopener noreferrer">
+                                    <a href={project.liveLink} target="_blank" >
                                         <Button variant="outline" size="sm" className="flex items-center gap-1">
                                             <ExternalLink size={14} /> Live
                                         </Button>
