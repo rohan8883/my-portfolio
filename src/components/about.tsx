@@ -17,7 +17,7 @@ export default function About() {
                     </div>
                     <div className="md:w-2/3">
                         <p className="text-lg text-gray-700 mb-6">
-                            Hello! I'm a passionate web developer with 2 years of experience in React.js. I specialize in building
+                            Hello! I'm a passionate web developer with 3 years of experience in React.js. I specialize in building
                             beautiful, functional, and user-friendly web applications.
                         </p>
                         <p className="text-lg text-gray-700 mb-6">
