@@ -13,12 +13,12 @@ export default function Hero() {
           A passionate developer specializing in web development and creating beautiful user experiences.
         </p>
         <div className="flex flex-wrap justify-center gap-4 mb-8">
+        <a href="/Resume.pdf" download >
           <Button className="flex items-center gap-2">
-            View Projects <ArrowRight size={16} />
+          Download Resume<ArrowRight size={16} />
           </Button>
-           <a href="/Resume.pdf" download className="flex items-center gap-2">
-            <Button variant="outline">Download Resume</Button>
-          </a>
+          </a> 
+          
         </div>
         <div className="flex gap-6">
           <a href="https://github.com/rohan8883" target="_blank" className="text-gray-600 hover:text-gray-900">
